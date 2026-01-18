@@ -14,7 +14,7 @@ import Contactus from './components/Contactus'
 
 import { initializeAnimations, addHoverAnimations, initScrollAnimations } from './utils/animations'
 
-const basename = import.meta.env.MODE === 'production' ? '/Mechgust-2026/' : '/'
+const basename = import.meta.env.MODE === 'production' ? '/Mechgust-26/' : '/'
 
 function ScrollToTop() {
   const { pathname } = useLocation()

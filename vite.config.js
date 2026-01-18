@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig(({ mode }) => ({
-  base: mode === 'production' ? '/Mechgust-2026/' : '/',
+  base: mode === 'production' ? '/Mechgust-26/' : '/',
   plugins: [react()],
   server: {
     port: 5173,
