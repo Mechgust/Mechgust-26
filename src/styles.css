@@ -3646,7 +3646,7 @@ blockquote {
 }
 
 .nav-menu {
-    margin-right: 2.2vw;
+    margin-right: 0;
     display: flex;
 }
 
