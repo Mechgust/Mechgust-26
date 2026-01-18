@@ -12,6 +12,7 @@ export default function Navbar(){
 
   return (
     <nav className="navbar w-nav" role="banner">
+      
       <Link to="/" className="logo-link-wrapper w-nav-brand">
         <img
                                                                        src="events/vit.jpg"

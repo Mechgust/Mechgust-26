@@ -6512,8 +6512,8 @@ blockquote {
         min-height: .06rem;
     }
     .logo {
-        min-height: 10rem;
-        max-height: 25rem;
+        min-height: 2rem;
+        max-height: 10rem;
     }
     .image-wrapper {
         min-height: auto;
