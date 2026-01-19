@@ -282,7 +282,7 @@ export default function Contactus() {
                     marginBottom: '0.25rem',
                     textTransform: 'uppercase'
                   }}>PHONE</p>
-                  <p style={{ color: '#f5f5f5', fontSize: '1rem', margin: 0 }}>+91 7299718396</p>
+                  <p style={{ color: '#f5f5f5', fontSize: '1rem', margin: 0 }}>+91 7299718396 <br /> +91 73584 34331</p>
                 </div>
               </div>
             </div>

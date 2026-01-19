@@ -6,11 +6,11 @@ export default function WorksSection() {
   const navigate = useNavigate()
   
   const works = [
-    {
-      id: 'nontech',
-      label: 'Non-Technical',
-      image: 'events/nontechgpt.png'
-    },
+    // {
+    //   id: 'nontech',
+    //   label: 'Non-Technical',
+    //   image: 'events/nontechgpt.png'
+    // },
     {
       id: 'tech',
       label: 'Technical',

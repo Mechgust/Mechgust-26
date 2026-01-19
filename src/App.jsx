@@ -5,7 +5,7 @@ import HeroSection from './components/HeroSection'
 import MetricsSection from './components/MetricsSection'
 import WorksSection from './components/WorksSection'
 import Footer from './components/Footer'
-import Nontech from './components/Nontech'
+// import Nontech from './components/Nontech'
 import Tech from './components/Tech'
 import Workshops from './components/Workshops'
 import Onlineevents from './components/Onlineevents'
@@ -54,7 +54,7 @@ export default function App() {
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/nontech" element={<Nontech />} />
+        {/* <Route path="/nontech" element={<Nontech />} /> */}
         <Route path="/tech" element={<Tech />} />
         <Route path="/workshops" element={<Workshops />} />
         <Route path="/onlineevents" element={<Onlineevents />} />
