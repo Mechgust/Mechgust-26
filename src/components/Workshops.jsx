@@ -88,12 +88,7 @@ export default function Workshops() {
 
   
     events: [
-      { letter: 'A', label: ' AEROMODELING',          image: 'events/aero.png', description: 'This workshop introduces participants to core aerodynamics concepts along with practical RC aircraft building experience, emphasizing hands-on training, teamwork, and disciplined participation.', rules: ['Participants must register and pay a Rs.150 fee before the workshop.',
-'Participation certificates will be provided to eligible attendees.',
-'All participants must follow the host institution’s rules.',
-'The workshop includes aerodynamics basics and hands-on RC aircraft building.',
-'Materials are provided, with motors and electronics for temporary use only.',
-'Misconduct or misuse of equipment will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'A', label: 'AEROMODELING', image: 'events/aero.png', description: 'This workshop introduces participants to core aerodynamics concepts along with practical RC aircraft building experience, emphasizing hands-on training, teamwork, and disciplined participation.', rules: ['Participation certificates will be provided to eligible attendees.', 'The workshop includes aerodynamics basics and hands-on RC aircraft building.', 'Materials are provided, with motors and electronics for temporary use only.', 'Misconduct or misuse of equipment will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -102,12 +97,7 @@ export default function Workshops() {
 
 
 
-      { letter: 'B', label: '3D PRINTING',          image: 'events/3D.png', description: 'This workshop provides a well-organized learning experience with defined guidelines, emphasizing discipline, responsible behavior, and effective hands-on engagement.', rules: ['Participants must register online or on-spot and complete payment before the workshop.',
-'Punctuality is mandatory and late entries may not be allowed.',
-'All institutional rules and regulations must be strictly followed.',
-'Official certificates will be issued upon successful completion.',
-'Participants must handle equipment carefully and are responsible for any damage.',
-'Unethical behavior, unauthorized recording, or rule violations will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'B', label: '3D PRINTING', image: 'events/3D.png', description: 'This workshop provides a well-organized learning experience with defined guidelines, emphasizing discipline, responsible behavior, and effective hands-on engagement.', rules: ['Participants must register online or on-site and complete payment before the workshop.', 'Punctuality is mandatory, and late entries may not be allowed.', 'All institutional rules and regulations must be strictly followed.', 'Official certificates will be issued upon successful completion.', 'Participants must handle equipment carefully and are responsible for any damage.', 'Unethical behavior, unauthorized recording, or rule violations will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -116,12 +106,7 @@ export default function Workshops() {
 
 
 
-      { letter: 'C', label: 'CNC',        image: 'events/CNC.png', description: 'This workshop emphasizes practical training with strict safety and discipline standards, with limited seats to ensure focused learning and effective skill development.', rules: ['Students must register online or on-spot to attend.',
-'Rs.100 payment is required before the event.',
-'Participation certificates will be provided.',
-'Institutional rules must be strictly followed.',
-'Hands-on training requires careful equipment handling and safety gear.',
-'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'C', label: 'CNC', image: 'events/CNC.png', description: 'This workshop emphasizes practical training with strict safety and discipline standards, with limited seats to ensure focused learning and effective skill development.', rules: ['Students must register online or on-site to attend.', 'Participation certificates will be provided.', 'Institutional rules must be strictly followed.', 'Hands-on training requires careful equipment handling and safety gear.', 'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -131,52 +116,32 @@ export default function Workshops() {
 
 
 
-      { letter: 'D', label: 'VEHICLE BUILDING',     image: 'events/vehicle.png', description: 'This workshop is organized with clear registration guidelines to ensure seamless participation, while emphasizing professionalism and strict adherence to safety standards throughout the event.', rules: ['Prior registration is mandatory for all participants.',
-'Registration can be done online or on-spot before 9:00 AM.',
-'Re-entry is not allowed once participants leave the venue.',
-'The entry fee is strictly non-refundable.',
-'All participants must maintain professionalism and follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'D', label: 'VEHICLE BUILDING', image: 'events/vehicle.png', description: 'This workshop is organized with clear registration guidelines to ensure seamless participation, while emphasizing professionalism and strict adherence to safety standards throughout the event.', rules: ['Students must register online or on-site to attend.', 'Participation certificates will be provided.', 'Institutional rules must be strictly followed.', 'Hands-on training requires careful equipment handling and safety gear.', 'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
 
 
 
-      { letter: 'E', label: 'ROBOTICS', image: 'events/robotics.png', description: 'This workshop requires prior registration and follows clear participation guidelines to ensure smooth conduct, while emphasizing professionalism and strict safety compliance throughout the event.', rules: ['Prior registration is required for all participants.',
-'Registration is available online or on-spot before 9:00 AM.',
-'Re-entry is not permitted once a participant leaves the venue.',
-'The entry fee is strictly non-refundable.',
-'All participants must maintain professionalism and follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'E', label: 'ROBOTICS', image: 'events/robotics.png', description: 'This workshop requires prior registration and follows clear participation guidelines to ensure smooth conduct, while emphasizing professionalism and strict safety compliance throughout the event.', rules: ['Students must register online or on-site to attend.', 'Participation certificates will be provided.', 'Institutional rules must be strictly followed.', 'Hands-on training requires careful equipment handling and safety gear.', 'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
 
 
-      { letter: 'F', label: 'DRONE',     image: 'events/drone.png', description: 'This workshop is conducted with clear registration and entry rules to ensure smooth participation, while emphasizing professionalism and strict adherence to safety standards throughout the event.', rules: ['Prior registration is mandatory for all participants.',
-'Participants may register online or on-spot before 9:00 AM.',
-'Re-entry is not allowed once participants leave the venue.',
-'The entry fee is non-refundable.',
-'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'F', label: 'DRONE', image: 'events/drone.png', description: 'This workshop is conducted with clear registration and entry rules to ensure smooth participation, while emphasizing professionalism and strict adherence to safety standards throughout the event.', rules: ['Students must register online or on-site to attend.', 'Participation certificates will be provided.', 'Institutional rules must be strictly followed.', 'Hands-on training requires careful equipment handling and safety gear.', 'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
 
 
-      { letter: 'G', label: 'ENTREPRENEURSHIP',        image: 'events/enter.png', description: 'Entrepreneurship encourages innovation and business skills to turn ideas into successful ventures through creativity and strategic thinking.', rules: ['Prior registration is mandatory for all participants.',
-'Participants may register online or on-spot before 9:00 AM.',
-'Re-entry is not allowed once participants leave the venue.',
-'The entry fee is non-refundable.',
-'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'G', label: 'ENTREPRENEURSHIP', image: 'events/enter.png', description: 'Entrepreneurship encourages innovation and business skills to turn ideas into successful ventures through creativity and strategic thinking.', rules: ['Students must register online or on-site to attend.', 'Participation certificates will be provided.', 'Institutional rules must be strictly followed.', 'Hands-on training requires careful equipment handling and safety gear.', 'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
 
 
-      { letter: 'H', label: 'FRONIUS',        image: 'events/fronius.png', description: 'Welding Technology (Fronius) introduces advanced welding techniques and modern equipment, focusing on precision, safety, and industry-standard practices for high-quality fabrication.', rules: ['Prior registration is mandatory for all participants.',
-'Participants may register online or on-spot before 9:00 AM.',
-'Re-entry is not allowed once participants leave the venue.',
-'The entry fee is non-refundable.',
-'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
+      { letter: 'H', label: 'FRONIUS', image: 'events/fronius.png', description: 'Welding Technology (Fronius) introduces advanced welding techniques and modern equipment, focusing on precision, safety, and industry-standard practices for high-quality fabrication.', rules: ['Students must register online or on-site to attend.', 'Participation certificates will be provided.', 'Institutional rules must be strictly followed.', 'Hands-on training requires careful equipment handling and safety gear.', 'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
