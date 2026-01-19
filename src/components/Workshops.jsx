@@ -164,7 +164,7 @@ export default function Workshops() {
           <h2 className="events-title">{work.title} EVENTS</h2>
 
 <p className="max-width-25vw" style={{ color: '#888', marginTop: '0.5rem' ,}}>
-  Scroll down to see all the events
+  Scroll down to explore all the events!
 </p>
 
 
