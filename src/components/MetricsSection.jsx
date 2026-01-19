@@ -37,7 +37,7 @@ export default function MetricsSection(){
               />
               <h5>Prizes</h5>
             </div>
-            <h2 className="metrics-text">20K+</h2>
+            <h2 className="metrics-text">50K+</h2>
           </div>
         </div>
         <div className="space-4rem"></div>

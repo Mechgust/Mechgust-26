@@ -438,7 +438,7 @@ Centered around the theme <strong>“The Silver Era,”</strong> MECHGUST repres
             <p style={{ color: '#666', fontSize: '0.75rem', letterSpacing: '0.2em', marginBottom: '1rem' }}>
               <span style={{ opacity: 0.5 }}>✦</span> PRIZES
             </p>
-            <h2 style={{ fontSize: 'clamp(4rem, 10vw, 8rem)', fontWeight: '700', color: '#fff', margin: 0 }}>20K+</h2>
+            <h2 style={{ fontSize: 'clamp(4rem, 10vw, 8rem)', fontWeight: '700', color: '#fff', margin: 0 }}>50K+</h2>
           </div>
         </div>
       </section>
