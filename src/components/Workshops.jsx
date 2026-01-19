@@ -93,7 +93,7 @@ export default function Workshops() {
 'All participants must follow the host institution’s rules.',
 'The workshop includes aerodynamics basics and hands-on RC aircraft building.',
 'Materials are provided, with motors and electronics for temporary use only.',
-'Misconduct or misuse of equipment will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'Misconduct or misuse of equipment will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -107,7 +107,7 @@ export default function Workshops() {
 'All institutional rules and regulations must be strictly followed.',
 'Official certificates will be issued upon successful completion.',
 'Participants must handle equipment carefully and are responsible for any damage.',
-'Unethical behavior, unauthorized recording, or rule violations will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'Unethical behavior, unauthorized recording, or rule violations will result in dismissal.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -121,7 +121,7 @@ export default function Workshops() {
 'Participation certificates will be provided.',
 'Institutional rules must be strictly followed.',
 'Hands-on training requires careful equipment handling and safety gear.',
-'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'Unethical behavior leads to dismissal; seats are first-come, first-served.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -135,7 +135,7 @@ export default function Workshops() {
 'Registration can be done online or on-spot before 9:00 AM.',
 'Re-entry is not allowed once participants leave the venue.',
 'The entry fee is strictly non-refundable.',
-'All participants must maintain professionalism and follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'All participants must maintain professionalism and follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -146,7 +146,7 @@ export default function Workshops() {
 'Registration is available online or on-spot before 9:00 AM.',
 'Re-entry is not permitted once a participant leaves the venue.',
 'The entry fee is strictly non-refundable.',
-'All participants must maintain professionalism and follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'All participants must maintain professionalism and follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -156,7 +156,7 @@ export default function Workshops() {
 'Participants may register online or on-spot before 9:00 AM.',
 'Re-entry is not allowed once participants leave the venue.',
 'The entry fee is non-refundable.',
-'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -166,7 +166,7 @@ export default function Workshops() {
 'Participants may register online or on-spot before 9:00 AM.',
 'Re-entry is not allowed once participants leave the venue.',
 'The entry fee is non-refundable.',
-'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
@@ -176,7 +176,7 @@ export default function Workshops() {
 'Participants may register online or on-spot before 9:00 AM.',
 'Re-entry is not allowed once participants leave the venue.',
 'The entry fee is non-refundable.',
-'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹150' },
+'All participants must maintain professionalism and strictly follow safety rules during the workshop.'], formLink: 'https://forms.gle/5LBKRg8W9vwJPUJM6', price: 'Entry Fee ₹100' },
 
 
 
