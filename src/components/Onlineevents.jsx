@@ -78,23 +78,23 @@ export default function Onlineevents() {
       
       
       
-      { letter: 'A', label: 'FREE FIRE',          image: 'events/freefire.png', description: 'This Free Fire event tests players’ skills and teamwork in a competitive battle royale format, with strict fair play and discipline to ensure an exciting and balanced competition.', rules: ['Players must register with correct in-game names and team details.',
-'Only mobile devices are allowed; emulators, triggers, and third-party apps are banned.',
-'Players must join the lobby on time; late entries will not be allowed.',
-'Matches will be played in classic battle royale mode with a pre-decided format.',
-'Use of hacks, cheats, teaming, exploits, or toxic behavior leads to disqualification.',
-'Judges’ and organizers’ decisions are final and cannot be contested.'], formLink: 'https://forms.gle/eZSUJGW6CRzU6uTM6', price: 'Entry Fee ₹50' },
+//       { letter: 'A', label: 'FREE FIRE',          image: 'events/freefire.png', description: 'This Free Fire event tests players’ skills and teamwork in a competitive battle royale format, with strict fair play and discipline to ensure an exciting and balanced competition.', rules: ['Players must register with correct in-game names and team details.',
+// 'Only mobile devices are allowed; emulators, triggers, and third-party apps are banned.',
+// 'Players must join the lobby on time; late entries will not be allowed.',
+// 'Matches will be played in classic battle royale mode with a pre-decided format.',
+// 'Use of hacks, cheats, teaming, exploits, or toxic behavior leads to disqualification.',
+// 'Judges’ and organizers’ decisions are final and cannot be contested.'], formLink: 'https://forms.gle/eZSUJGW6CRzU6uTM6', price: 'Entry Fee ₹50' },
       
       
       
       
       
-      { letter: 'B', label: 'BGMI',          image: 'events/BGMI.png', description: 'This BGMI event delivers intense battle royale action where players showcase skill, strategy, and teamwork under strict fair-play rules for a balanced and thrilling gaming experience.', rules: ['Players must register with correct in-game names and team details.',
-'Only mobile devices are allowed; emulators, triggers, and third-party apps are banned.',
-'Players must join the lobby on time; late entries will not be entertained.',
-'Matches will be played in classic battle royale mode with a pre-decided format.',
-'Use of hacks, cheats, teaming, exploits, or toxic behavior results in disqualification.',
-'Judges’ and organizers’ decisions are final and cannot be contested.'], formLink: 'https://forms.gle/eZSUJGW6CRzU6uTM6', price: 'Entry Fee ₹50' },
+//       { letter: 'B', label: 'BGMI',          image: 'events/BGMI.png', description: 'This BGMI event delivers intense battle royale action where players showcase skill, strategy, and teamwork under strict fair-play rules for a balanced and thrilling gaming experience.', rules: ['Players must register with correct in-game names and team details.',
+// 'Only mobile devices are allowed; emulators, triggers, and third-party apps are banned.',
+// 'Players must join the lobby on time; late entries will not be entertained.',
+// 'Matches will be played in classic battle royale mode with a pre-decided format.',
+// 'Use of hacks, cheats, teaming, exploits, or toxic behavior results in disqualification.',
+// 'Judges’ and organizers’ decisions are final and cannot be contested.'], formLink: 'https://forms.gle/eZSUJGW6CRzU6uTM6', price: 'Entry Fee ₹50' },
       
       
       

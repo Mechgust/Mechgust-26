@@ -15,7 +15,7 @@ export default function MetricsSection(){
               />
               <h5>Events</h5>
             </div>
-            <h2 className="metrics-text">25+</h2>
+            <h2 className="metrics-text">15+</h2>
           </div>
           <div className="metrics-text-block">
             <div className="hero-subheading-flex">
