@@ -129,7 +129,7 @@ export default function Tech() {
       
       
       
-      { letter: 'E', label: 'REVERSE ENGINEERING', image: 'events/cycle.png', description: 'The Reverse engineering event challenges teams to assemble a disassembled bicycle, testing practical skills, mechanical understanding, teamwork, and problem-solving.', rules: ['Team size must be 2–3 members per team',
+      { letter: 'E', label: 'REVERSE ENGINEERING (CYCLE ASSEMBLY)', image: 'events/cycle.png', description: 'The Reverse engineering event challenges teams to assemble a disassembled bicycle, testing practical skills, mechanical understanding, teamwork, and problem-solving.', rules: ['Team size must be 2–3 members per team',
 'Participants will be provided with a fully disassembled bicycle and required components',
 'Basic tools necessary for assembly will be provided by the organizers',
 'Only top-performing teams from the MCQ round will qualify for the assembly round',
